@@ -1,1 +1,2 @@
 Inserted new file to test the branches in GIT
+Made changes in master branch
